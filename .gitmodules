@@ -1,0 +1,4 @@
+[submodule "humanytek-team/stock_move_import_serial_numbers"]
+	path = humanytek-team/stock_move_import_serial_numbers
+	url = git@github.com:humanytek-team/stock_move_import_serial_numbers.git
+	branch = master
